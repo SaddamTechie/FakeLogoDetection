@@ -1,0 +1,9 @@
+# backend / FastAPI
+backend/__pycache__
+backend/myenv
+backend/images
+
+
+# frontend / NextJS
+frontend/.next
+frontend/node_modules
